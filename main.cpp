@@ -1,3 +1,12 @@
+// ASSIGNMENT_NAME: EECS 348 Lab 6
+// FUNCTION: Take in two matricies and perform matrix math with them
+// INPUTS: matrix_input.txt
+// OUTPUTS: Various matricies with the various operations
+// AUTHOR_NAME: Michael Stang
+// COLLABORATORS: NONE
+// CREATION_DATE: 10/19/2023
+
+
 #include <iostream>
 #include <string>
 #include <fstream>
